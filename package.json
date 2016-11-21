@@ -1,0 +1,23 @@
+{
+  "name": "article-navigator",
+  "version": "1.0.0",
+  "description": "A chrome extension used to search for the hottest and most popular articles with keywords.",
+  "main": "js/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joshua-Hess/Article-Navigator.git"
+  },
+  "keywords": [
+    "article",
+    "search"
+  ],
+  "author": "Joshua Hess",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Joshua-Hess/Article-Navigator/issues"
+  },
+  "homepage": "https://github.com/Joshua-Hess/Article-Navigator#readme"
+}
